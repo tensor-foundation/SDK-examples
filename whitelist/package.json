@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tensor-foundation/whitelist": "^0.1.0",
+    "@tensor-foundation/common-helpers": "^0.1.0",
+    "@solana/web3.js": "2.0.0-preview.3",
+    "tsx": "^4.11.0"
+  }
+}

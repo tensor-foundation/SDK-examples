@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@solana/web3.js": "2.0.0-preview.3",
+        "@tensor-foundation/marketplace": "^0.1.0",
+        "@tensor-foundation/common-helpers": "^0.1.0",
+        "@tensor-foundation/resolvers": "^0.1.1",
+        "tsx": "^4.11.0"
+    }
+}
