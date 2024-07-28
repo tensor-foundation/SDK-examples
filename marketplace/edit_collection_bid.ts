@@ -6,7 +6,6 @@ import {
   createKeyPairSignerFromBytes,
   isSome,
   unwrapOption,
-  none,
 } from '@solana/web3.js';
 import {
   Target,
