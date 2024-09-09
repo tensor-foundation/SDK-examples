@@ -1,8 +1,8 @@
 {
-    "dependencies": {
-        "@solana/web3.js": "2.0.0-preview.3",
-        "@tensor-foundation/escrow": "^0.1.0",
-        "@tensor-foundation/common-helpers": "^0.1.0",
-        "tsx": "^4.11.0"
-    }
+  "dependencies": {
+    "@solana/web3.js": "2.0.0-preview.3",
+    "@tensor-foundation/escrow": "^0.1.0",
+    "@tensor-foundation/common-helpers": "^0.3.0",
+    "tsx": "^4.11.0"
+  }
 }
