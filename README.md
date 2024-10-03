@@ -8,7 +8,7 @@ To get started, clone or download this repository, navigate to the program folde
 ```shell
 git clone https://github.com/tensor-foundation/SDK-examples.git
 cd SDK-examples
-cd price-lock
+cd marketplace
 npm install
 ```
 
@@ -21,7 +21,7 @@ Afterwards, open `common.ts` and fill in:
 ## Running a script
 Now you can run whatever script you like by filling in the arguments of the function you want to execute at the bottom of each corresponding script file and executing the following command afterwards, e.g.:
 ```shell
-npx tsx create_long_lock.ts
+npx tsx make_collection_bid.ts
 ```
 
 ## Feedback
